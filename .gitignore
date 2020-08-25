@@ -1,1 +1,5 @@
 guess
+venv/
+chromedriver
+passewords.txt
+password.txt
